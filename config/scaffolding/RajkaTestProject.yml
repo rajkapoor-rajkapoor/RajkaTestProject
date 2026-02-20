@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/rajkapoor-rajkapoor
   gitUsername: rajkapoor-rajkapoor
   gitBranch: main
+- name: JcHelloWorldAPI
+  gitServerName: rajka
+  gitUrl: https://github.com/johnpcarter
+  gitUsername: rajkapoor-rajkapoor
+  gitBranch: main
